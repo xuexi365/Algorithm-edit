@@ -1,0 +1,44 @@
+{
+	"title": "算法学习笔记",
+	"author": "xuexi365",
+	"description": "",
+
+	"plugins": [
+    "-search",
+		"search-pro",
+		"splitter",
+		"expandable-chapters-small",
+		"fontsettings",
+    "edit-link",
+		"back-to-top-button",
+		"-sharing",
+		"sharing-plus",
+		"github"
+	],
+
+	"pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/xuexi365/Algorithm/edit/master",
+      "label": "编辑本页"
+    },
+		"github": {
+			"url": "https://github.com/xuexi365/Algorithm"
+		},
+		"sharing": {
+			"all": [
+				"qq",
+				"weibo",
+				"douban",
+				"linkedin",
+				"facebook",
+				"twitter",
+				"google"
+			]
+		}
+	},
+
+  "styles": {
+       "website": "styles/website.css"
+   }
+
+}
