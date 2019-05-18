@@ -10,4 +10,5 @@
 ### [栈](stack.md)
 ### [队列](queue.md)
 ### [哈希表](hash-table.md)
-### [堆](heap.html)
+### [堆](heap.md)
+### [树](tree.md)

@@ -8,7 +8,9 @@
     * [队列](data-structure/queue.md)
     * [哈希表](data-structure/hash-table.md)
     * [堆](data-structure/heap.md)
-    * [树、二叉树](data-structure/tree.md)
+    * [树](data-structure/tree.md)
+        * [二叉树](data-structure/binary-tree.md)
+        * [B树](data-structure/b-tree.md)
 * 排序与查找
 * 图论与搜索
 * 人工神经网络
