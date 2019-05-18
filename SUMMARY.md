@@ -11,7 +11,19 @@
     * [树](data-structure/tree.md)
         * [二叉树](data-structure/binary-tree.md)
         * [B树](data-structure/b-tree.md)
-* 排序与查找
+* [排序与查找](sort-and-search/index.md)
+    * [冒泡排序](sort-and-search/bubble-sort.md)
+    * [快速排序](sort-and-search/quick-sort.md)
+    * [直接选择排序](sort-and-search/selection-sort.md)
+    * [堆排序](sort-and-search/heap-sort.md)
+    * [直接插入排序](sort-and-search/insertion-sort.md)
+    * [希尔排序](sort-and-search/shell-sort.md)
+    * [归并排序](sort-and-search/merge-sort.md)
+    * [基数排序](sort-and-search/radix-sort.md)
+    * 计数排序
+    * 桶排序
+
+-----
 * 图论与搜索
 * 人工神经网络
 * 附:安全算法
