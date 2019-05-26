@@ -22,10 +22,15 @@
     * [基数排序](sort-and-search/radix-sort.md)
     * 计数排序
     * 桶排序
+* [图](graph/index.md)
+    * [广度优先搜索](graph/breadth-first-search.md)
+    * [深度优先搜索](graph/depth-first-search.md)
+    * [贝尔曼-福特算法](graph/bellman-ford.md)
+    * [狄克斯特拉算法](graph/dijkstra.md)
+    * [Floyd算法](graph/floyd.md)
+    * [A*算法](graph/a-start.md)
 
 -----
-* 图论与搜索
 * 人工神经网络
 * 附:安全算法
 * [关于](about.md)
-
