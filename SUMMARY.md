@@ -29,8 +29,14 @@
     * [狄克斯特拉算法](graph/dijkstra.md)
     * [Floyd算法](graph/floyd.md)
     * [A*算法](graph/a-start.md)
+* [组合优化](combinatorial-optimization/index.md)
+    * [NP完全问题](combinatorial-optimization/np-completeness.md)
+    * [背包问题](combinatorial-optimization/knapsack-problem.md)
+    * [集合覆盖问题](combinatorial-optimization/set-covering-problem.md)
+    * [旅行商问题](combinatorial-optimization/traveling-salesman-problem.md)
 
 -----
 * 人工神经网络
 * 附:安全算法
 * [关于](about.md)
+
