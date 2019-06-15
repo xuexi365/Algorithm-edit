@@ -34,6 +34,18 @@
     * [背包问题](combinatorial-optimization/knapsack-problem.md)
     * [集合覆盖问题](combinatorial-optimization/set-covering-problem.md)
     * [旅行商问题](combinatorial-optimization/traveling-salesman-problem.md)
+* [相似度](similarity/index.md)
+    * [最长公共子串/最长公共子序列](similarity/lcs.md)
+    * 编辑距离
+    * 欧几里得距离
+    * 曼哈顿距离
+    * 余弦相距离
+    * 杰卡德距离
+    * 皮尔逊距离
+    * 明可夫斯基距离
+    * 汉明距离
+    * 切比雪夫距离
+    * 马氏距离
 
 -----
 * 人工神经网络
