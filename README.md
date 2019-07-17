@@ -49,6 +49,14 @@
     * 汉明距离
     * 切比雪夫距离
     * 马氏距离
+* [机器学习](machine-learning/index.md)
+    * [监督学习](machine-learning/supervised-learning/index.md)
+      * [线性回归](machine-learning/supervised-learning/linear-regression.md)
+      * [逻辑回归](machine-learning/supervised-learning/logistic-regression.md)
+      * [正则化](machine-learning/supervised-learning/regularization.md)
+    * [无监督学习](machine-learning/unsupervised-learning/index.md)
+    * [强化学习](machine-learning/reinforcement-learning/index.md)
+
 
 * 人工神经网络
 * 附:安全算法
