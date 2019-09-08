@@ -58,10 +58,11 @@
       * [数据集划分](machine-learning/supervised-learning/data-set-division.md)
       * [诊断](machine-learning/supervised-learning/giagnosing.md)
       * [误差分析](machine-learning/supervised-learning/error-analysis.md)
+    * [神经网络](machine-learning/neural-network/index.md)
+        * [基本符号定义和推导](machine-learning/neural-network/base-symbol.md)
     * [无监督学习](machine-learning/unsupervised-learning/index.md)
     * [强化学习](machine-learning/reinforcement-learning/index.md)
 
 
-* 人工神经网络
 * 附:安全算法
 * [关于](about.md)
