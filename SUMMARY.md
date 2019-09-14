@@ -60,6 +60,7 @@
     * [神经网络](machine-learning/neural-network/index.md)
         * [基本符号定义和推导](machine-learning/neural-network/base-symbol.md)
         * [超参数](machine-learning/neural-network/hyperparameter.md)
+        * [梯度下降相关](machine-learning/neural-network/gradient-descent.md)
     * [无监督学习](machine-learning/unsupervised-learning/index.md)
     * [强化学习](machine-learning/reinforcement-learning/index.md)
 
