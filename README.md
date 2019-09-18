@@ -55,7 +55,7 @@
       * [逻辑回归](machine-learning/supervised-learning/logistic-regression.md)
       * [拟合问题](machine-learning/supervised-learning/fitting.md)
       * [正则化](machine-learning/supervised-learning/regularization.md)
-      * [归一化输入](machine-learning/supervised-learning/normalizing-inputs.md)  
+      * [归一化](machine-learning/supervised-learning/normalizing-inputs.md)  
       * [数据集划分](machine-learning/supervised-learning/data-set-division.md)          
       * [诊断](machine-learning/supervised-learning/giagnosing.md)
       * [早停法](machine-learning/supervised-learning/early-stopping.md) 
@@ -63,7 +63,7 @@
     * [神经网络](machine-learning/neural-network/index.md)
         * [基本符号定义和推导](machine-learning/neural-network/base-symbol.md)
         * [超参数](machine-learning/neural-network/hyperparameter.md)
-        * [梯度下降相关](machine-learning/neural-network/gradient-decent.md)        
+        * [梯度下降相关](machine-learning/neural-network/gradient-descent.md)        
     * [无监督学习](machine-learning/unsupervised-learning/index.md)
     * [强化学习](machine-learning/reinforcement-learning/index.md)
 
