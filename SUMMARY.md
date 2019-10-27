@@ -65,6 +65,7 @@
         * [卷积神经网络](machine-learning/neural-network/cnn/cnn.md)
             * [典型实例探究](machine-learning/neural-network/cnn/case.md)
             * [应用场景](machine-learning/neural-network/cnn/application.md)
+        * [循环神经网络](machine-learning/neural-network/rnn/rnn.md)
     * [无监督学习](machine-learning/unsupervised-learning/index.md)
     * [强化学习](machine-learning/reinforcement-learning/index.md)
 
