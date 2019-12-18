@@ -71,6 +71,15 @@
         * [循环神经网络](machine-learning/neural-network/rnn/rnn.md)  
     * [无监督学习](machine-learning/unsupervised-learning/index.md)
     * [强化学习](machine-learning/reinforcement-learning/index.md)
+    * [自然语言处理](machine-learning/nlp/index.md)
+        * [统计语言模型](machine-learning/nlp/statistical-language-model.md)
+        * [神经网络语言模型](machine-learning/nlp/nnlm.md)
+        * [文本向量化](machine-learning/nlp/vector.md)
+            * [词袋模型BoW](machine-learning/nlp/bow.md)
+            * [词嵌入](machine-learning/nlp/word-embedding.md)
+            * [word2vec的训练模型](machine-learning/nlp/word2vec.md)
+            * [fastText子词嵌入](machine-learning/nlp/fastText.md)
+            * [GloVe全局向量](machine-learning/nlp/glove.md)
 
 
 * 附:安全算法
