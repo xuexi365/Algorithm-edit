@@ -77,7 +77,7 @@
         * [文本向量化](machine-learning/nlp/vector.md)
             * [词袋模型BoW](machine-learning/nlp/bow.md)
             * [词嵌入](machine-learning/nlp/word-embedding.md)
-            * [word2vec的训练模型](machine-learning/nlp/word2vec.md)
+            * [word2vec的训练模型CBoW和Skip-gram](machine-learning/nlp/word2vec.md)
             * [fastText子词嵌入](machine-learning/nlp/fastText.md)
             * [GloVe全局向量](machine-learning/nlp/glove.md)
 
