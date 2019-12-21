@@ -1,7 +1,7 @@
 # Summary
 
 * [算法学习笔记](README.md)
-* [数据结构](data-structure/index.md)
+* [数据结构基础](data-structure/index.md)
     * [数组](data-structure/array.md)
     * [链表](data-structure/linked-list.md)
     * [栈](data-structure/stack.md)
@@ -11,17 +11,17 @@
     * [树](data-structure/tree.md)
         * [二叉树](data-structure/binary-tree.md)
         * [B树](data-structure/b-tree.md)
-* [排序与查找](sort-and-search/index.md)
-    * [冒泡排序](sort-and-search/bubble-sort.md)
-    * [快速排序](sort-and-search/quick-sort.md)
-    * [直接选择排序](sort-and-search/selection-sort.md)
-    * [堆排序](sort-and-search/heap-sort.md)
-    * [直接插入排序](sort-and-search/insertion-sort.md)
-    * [希尔排序](sort-and-search/shell-sort.md)
-    * [归并排序](sort-and-search/merge-sort.md)
-    * [基数排序](sort-and-search/radix-sort.md)
-    * 计数排序
-    * 桶排序
+    * [排序与查找](sort-and-search/index.md)
+        * [冒泡排序](sort-and-search/bubble-sort.md)
+        * [快速排序](sort-and-search/quick-sort.md)
+        * [直接选择排序](sort-and-search/selection-sort.md)
+        * [堆排序](sort-and-search/heap-sort.md)
+        * [直接插入排序](sort-and-search/insertion-sort.md)
+        * [希尔排序](sort-and-search/shell-sort.md)
+        * [归并排序](sort-and-search/merge-sort.md)
+        * [基数排序](sort-and-search/radix-sort.md)
+        * 计数排序
+        * 桶排序
 * [图](graph/index.md)
     * [广度优先搜索](graph/breadth-first-search.md)
     * [深度优先搜索](graph/depth-first-search.md)
@@ -36,16 +36,18 @@
     * [旅行商问题](combinatorial-optimization/traveling-salesman-problem.md)
 * [相似度](similarity/index.md)
     * [最长公共子串/最长公共子序列](similarity/lcs.md)
-    * 编辑距离
-    * 欧几里得距离
-    * 曼哈顿距离
-    * 余弦相距离
-    * 杰卡德距离
-    * 皮尔逊距离
-    * 明可夫斯基距离
-    * 汉明距离
-    * 切比雪夫距离
-    * 马氏距离
+    * [各种距离](similarity/distance.md)
+        * 编辑距离
+        * 欧几里得距离
+        * 曼哈顿距离
+        * 余弦相距离
+        * 杰卡德距离
+        * 皮尔逊距离
+        * 明可夫斯基距离
+        * 汉明距离
+        * 切比雪夫距离
+        * 马氏距离
+        * N-gram距离
 * [机器学习](machine-learning/index.md)
     * [监督学习](machine-learning/supervised-learning/index.md)
         * [线性回归](machine-learning/supervised-learning/linear-regression.md)
@@ -69,8 +71,14 @@
     * [无监督学习](machine-learning/unsupervised-learning/index.md)
     * [强化学习](machine-learning/reinforcement-learning/index.md)
     * [自然语言处理](machine-learning/nlp/index.md)
+        * [中文分词](machine-learning/nlp/Chinese-word-segmentation.md)
         * [统计语言模型](machine-learning/nlp/statistical-language-model.md)
         * [神经网络语言模型](machine-learning/nlp/nnlm.md)
+        * [关键词提取](machine-learning/nlp/keywords-extraction.md)
+            * TF-IDF
+            * TextRank
+            * LSA/LSI
+            * LDA
         * [文本向量化](machine-learning/nlp/vector.md)
             * [词袋模型BoW](machine-learning/nlp/bow.md)
             * [词嵌入](machine-learning/nlp/word-embedding.md)
