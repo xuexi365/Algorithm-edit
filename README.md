@@ -71,6 +71,7 @@
             * [典型实例探究](machine-learning/neural-network/cnn/case.md)
             * [应用场景](machine-learning/neural-network/cnn/application.md)  
         * [循环神经网络](machine-learning/neural-network/rnn/rnn.md)  
+            * [seq2seq模型和Attention机制](machine-learning/neural-network/rnn/seq2seq-attention.md)
     * [无监督学习](machine-learning/unsupervised-learning/index.md)
     * [强化学习](machine-learning/reinforcement-learning/index.md)
     * [自然语言处理](machine-learning/nlp/index.md)
