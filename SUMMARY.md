@@ -70,6 +70,11 @@
         * [循环神经网络](machine-learning/neural-network/rnn/rnn.md)
             * [seq2seq模型和Attention机制](machine-learning/neural-network/rnn/seq2seq-attention.md)
     * [无监督学习](machine-learning/unsupervised-learning/index.md)
+        * [K-means 聚类](machine-learning/unsupervised-learning/k-means.md)
+        * DBSCAN 聚类
+        * Birch 聚类
+        * 主成分分析
+        * 因子分析
     * [强化学习](machine-learning/reinforcement-learning/index.md)
     * [自然语言处理](machine-learning/nlp/index.md)
         * [中文分词](machine-learning/nlp/Chinese-word-segmentation.md)
