@@ -63,6 +63,7 @@
       * [诊断](machine-learning/supervised-learning/giagnosing.md)
       * [早停法](machine-learning/supervised-learning/early-stopping.md) 
       * [误差分析](machine-learning/supervised-learning/error-analysis.md)
+      * [K-近邻算法](machine-learning/supervised-learning/knn.md)
     * [神经网络](machine-learning/neural-network/index.md)
         * [基本符号定义和推导](machine-learning/neural-network/base-symbol.md)
         * [超参数](machine-learning/neural-network/hyperparameter.md)
